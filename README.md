@@ -16,6 +16,8 @@ __________                              _____          __   .__
 License
 =======
 
+[![Join the chat at https://gitter.im/kerbymart/boon](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kerbymart/boon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 *Apache 2*
 
